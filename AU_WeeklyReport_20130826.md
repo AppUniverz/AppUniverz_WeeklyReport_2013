@@ -20,8 +20,8 @@ AU_WeeklyReport_20130826
 
 
 --
-高而芬 (小兔) 
-Erh-fen Kao (Joyce)
+高而芬 (小兔) </br> 
+Erh-fen Kao (Joyce) </br>
 
 Executive Secretary 執行秘書 
 AppUniverz 台灣創新行動服務推廣協會
