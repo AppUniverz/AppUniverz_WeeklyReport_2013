@@ -20,7 +20,7 @@ AU_WeeklyReport_20130826
 
 
 --
-高而芬 (小兔) </br> 
+<p> 高而芬 (小兔) </p> 
 Erh-fen Kao (Joyce) </br>
 
 Executive Secretary 執行秘書 
@@ -33,4 +33,3 @@ Mobile: +886 933322112
 E-mail: erhfen [at] gmail.com 
 My schedule: http://bit.ly/erhfenschdule
 
-div{ word-wrap: break-word; word-break: normal; }
