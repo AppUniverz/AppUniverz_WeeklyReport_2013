@@ -20,16 +20,17 @@ AU_WeeklyReport_20130826
 
 
 --
-<p> 高而芬 (小兔) </p> 
-Erh-fen Kao (Joyce) </br>
+<p> 
+高而芬 (小兔) <br/> 
+Erh-fen Kao (Joyce) <br/>
 
-Executive Secretary 執行秘書 <p>
-AppUniverz 台灣創新行動服務推廣協會 <p>
--Website: http://www.appuniverz.org/ <p>
--Fanpage: http://bit.ly/AU-org <p>
--Schedule: http://bit.ly/AUschedule <p>
+Executive Secretary 執行秘書 <br/>
+AppUniverz 台灣創新行動服務推廣協會 <br/>
+-Website: http://www.appuniverz.org/ <br/>
+-Fanpage: http://bit.ly/AU-org <br/>
+-Schedule: http://bit.ly/AUschedule <br/>
 
-Mobile: +886 933322112 <p>
-E-mail: erhfen [at] gmail.com <p> 
-My schedule: http://bit.ly/erhfenschdule <p>
-
+Mobile: +886 933322112 <br/>
+E-mail: erhfen [at] gmail.com <br/> 
+My schedule: http://bit.ly/erhfenschdule <br/>
+</p>
