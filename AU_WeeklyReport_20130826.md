@@ -32,3 +32,5 @@ AppUniverz 台灣創新行動服務推廣協會
 Mobile: +886 933322112
 E-mail: erhfen [at] gmail.com 
 My schedule: http://bit.ly/erhfenschdule
+
+div{ word-wrap: break-word; word-break: normal; }
