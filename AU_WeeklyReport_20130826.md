@@ -17,3 +17,18 @@ AU_WeeklyReport_20130826
 * 8/21 受邀 [會議] 於清大育成中心做簡報
 * 8/22 受邀 [活動] 第二場創星小聚 @青創總會青年廳 http://www.accupass.com/go/startuplikeme
 * 8/23 受邀 [活動] HackNTU 臺大黑客松開發小聚 # 1 @CLBC http://www.accupass.com/event/register?eid=537114220545208
+
+
+--
+高而芬 (小兔) 
+Erh-fen Kao (Joyce)
+
+Executive Secretary 執行秘書 
+AppUniverz 台灣創新行動服務推廣協會
+-Website: http://www.appuniverz.org/
+-Fanpage: http://bit.ly/AU-org
+-Schedule: http://bit.ly/AUschedule
+
+Mobile: +886 933322112
+E-mail: erhfen [at] gmail.com 
+My schedule: http://bit.ly/erhfenschdule
