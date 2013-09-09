@@ -55,15 +55,15 @@ http://www.syancpa.com/
 * 資策會數位教育研究所 http://w3.iiiedu.org.tw/
 * Startup Weekend http://taipei.startupweekend.org/
 * 學生社團：清華國際創業網絡 http://thisisforachange.tumblr.com/
-* 學生社團：中央大學網路開源社 http://140.115.26.60/
+* 學生社團：中央網路開源社 http://140.115.26.60/
 
 
 ### Schedule
-* 9/03 [Meeting] 巡迴創業座談-中央場 with 蔡孝玠, Toby 等學生 @女十四
-* 9/05 [Meeting] 討論 Startup Weekend 合作 with David @Online
-* 9/06 [Meeting] 黑客松活動規劃_與資策會合辦 @清大育成會議室211
-* 9/06 [Meeting] 黑客松贊助洽談_與DOIT共創公域 @資策會MIC
-* 9/07 [活動] 創業鄉民大集合 吃喝玩樂慶中秋
+* 9/03 [Meeting] 巡迴創業座談-中央場_中央網路開源社 @女十四
+* 9/05 [Meeting] 討論 Startup Weekend 合作_David @Online
+* 9/06 [Meeting] 黑客松活動規劃_資策會數位教育研究所 @清大育成會議室211
+* 9/06 [Meeting] 黑客松贊助洽談_DOIT共創公域 @資策會MIC
+* 9/07 [參與活動] 創業鄉民大集合 吃喝玩樂慶中秋 @台中 Hands Up 育成中心 http://on.fb.me/1aYdF1T
 
 
 ### Contact us
