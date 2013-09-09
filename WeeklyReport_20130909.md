@@ -51,11 +51,17 @@ http://www.syancpa.com/
 
 
 ### Cooperation
+----------------------------
 * DOIT共創公域 (由經濟部技術處與資策會MIC青年領航學院主辦的"創意平台") https://taiwan-doit.com/
+----------------------------
 * 資策會數位教育研究所 http://w3.iiiedu.org.tw/
+----------------------------
 * Startup Weekend http://taipei.startupweekend.org/
+----------------------------
 * 學生社團：清華國際創業網絡 http://thisisforachange.tumblr.com/
+----------------------------
 * 學生社團：中央網路開源社 http://140.115.26.60/
+----------------------------
 
 
 ### Schedule
