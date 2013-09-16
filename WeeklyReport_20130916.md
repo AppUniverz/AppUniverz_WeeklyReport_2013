@@ -18,8 +18,9 @@
 
 ### 近期活動：
 
-AppUniverz 校園巡迴創業座談會
 ----------------------------
+AppUniverz 校園巡迴創業座談會
+
 09/16(一) 交大場 http://bit.ly/AUspeechNCTU916
 
 09/24(二) 中央場 http://bit.ly/AUspeechNCU924
