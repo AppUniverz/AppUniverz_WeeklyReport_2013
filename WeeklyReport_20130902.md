@@ -28,8 +28,8 @@ Erh-fen Kao (Joyce) <br/>
 Executive Secretary 執行秘書 <br/>
 AppUniverz 台灣創新行動服務推廣協會 <br/>
 > Website：[http://www.appuniverz.org/](http://www.appuniverz.org/) <br/>
-> Fanpage：[http://www.appuniverz.org/](http://bit.ly/AU-org) <br/>
-> Schedule：[http://www.appuniverz.org/](http://bit.ly/AUschedule) <br/>
+> Fanpage：[http://bit.ly/AU-org](http://bit.ly/AU-org) <br/>
+> Schedule：[http://bit.ly/AUschedule](http://bit.ly/AUschedule) <br/>
 
 * Mobile: +886 933322112 
 * E-mail: erhfen [at] gmail.com 
