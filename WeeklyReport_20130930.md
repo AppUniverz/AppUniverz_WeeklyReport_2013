@@ -28,11 +28,11 @@
 
 ### Schedule
 
-09/24(二) AppUniverz 校園創業座談會—中央場 http://bit.ly/AUspeechNCU924
-09/25(三) AppUniverz 校園創業座談會—清大場 http://bit.ly/AUspeechNTHU925
-09/26(四) 拜訪元培資工系主任與育成中心
-09/27(五) AppUniverz 2013 年會 @CLBC 4F http://bit.ly/AUsharing2013
-09/28(六) 學生交流會 @交大Wake up bar! http://bit.ly/AUstudent2013
+* 09/24(二) AppUniverz 校園創業座談會—中央場 http://bit.ly/AUspeechNCU924
+* 09/25(三) AppUniverz 校園創業座談會—清大場 http://bit.ly/AUspeechNTHU925
+* 09/26(四) 拜訪元培資工系主任與育成中心
+* 09/27(五) AppUniverz 2013 年會 @CLBC 4F http://bit.ly/AUsharing2013
+* 09/28(六) 學生交流會 @交大Wake up bar! http://bit.ly/AUstudent2013
 
 
 ### Cooperation
