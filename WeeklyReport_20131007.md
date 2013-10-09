@@ -19,7 +19,6 @@
 * 10/02(三) [Meeting] 矽谷團第二團合作討論 @NTU
 * 10/03(四) [隨堂記者] 高科技創業 @NTHU
 * 10/04(五) [應邀活動] MakerBar Opening Party @Taipei
-* 10/05(六) 學生交流會 @交大Wake up bar! http://bit.ly/AUstudent2013
 * 10/06(日) [受訪] DOIT訪問與拍攝行程 @NCTU
 
 
