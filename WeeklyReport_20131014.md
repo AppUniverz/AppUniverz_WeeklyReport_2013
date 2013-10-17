@@ -27,7 +27,7 @@
 
 11/16 DOIT 年會 https://taiwan-doit.com/131116
 
-11/16-17 Taiwan Hackathon @Taipei 
+11/16-17 2013 創意生活家 @Taipei 
 
 11/22-24 Startup Weekend Taiwan @Taipei & KH (https://www.facebook.com/sw.taiwan)
 
