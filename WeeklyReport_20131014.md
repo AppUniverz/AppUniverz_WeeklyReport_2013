@@ -24,6 +24,9 @@
 ### Upcoming
 
 ----------------------------
+
+10/18 台灣 Startup Weekend 第九屆 台北場 前奏曲No.1 (社會議題分享 X SW說明會) http://www.accupass.com/go/sw9infotpe01
+
 10/26-27 MOPCON 2013 http://mopcon.org/2013/
 
 11/16 DOIT 年會 https://taiwan-doit.com/131116
