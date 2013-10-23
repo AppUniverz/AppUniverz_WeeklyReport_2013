@@ -45,6 +45,11 @@
 
 ### Cooperation
 ----------------------------
+數位時代_2013 Neo Star創業之星Demo Show宣傳夥伴 http://www.bnext.com.tw/edm/meet/36/
+
+協助宣傳
+
+----------------------------
 MOPCON 2013 行動科技應用開發者年會 http://mopcon.org/2013/
 
 提供贊助，參與活動
