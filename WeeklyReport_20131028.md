@@ -15,6 +15,7 @@
 
 ### Schedule
 
+* 10/21(一) Meeting_交大黑客松 @北科大伯朗咖啡
 * 10/24(四) Meeting_合作討論 @遊戲橘子
 * 10/25(五) Meeting_合作討論 @高雄軟體園區產業促進會
 * 10/26(六) 活動_MOPCON 行動開發者年會 @高雄國際會議中心
@@ -44,12 +45,7 @@
 ----------------------------
 
 
-### Cooperation
-----------------------------
-數位時代_2013 Neo Star創業之星Demo Show宣傳夥伴 http://www.bnext.com.tw/edm/meet/36/
-
-協助宣傳
-
+### Cooperationㄒ
 ----------------------------
 DOIT共創公域 (由經濟部技術處與資策會MIC青年領航學院主辦的"創意平台") https://taiwan-doit.com/
 
@@ -74,6 +70,13 @@ Startup Weekend Taiwan https://www.facebook.com/sw.taiwan
 高雄軟體園區產業促進會
 
 合辦工作坊活動 (角色：策略夥伴、活動規劃、活動宣傳、當天活動)
+
+----------------------------
+社群協辦
+
+數位時代_2013 Neo Star創業之星Demo Show宣傳夥伴 http://www.bnext.com.tw/edm/meet/36/
+
+協助宣傳
 
 ----------------------------
 學生社團：中央網路開源社 http://nos.ncu.cc/wordpress/
