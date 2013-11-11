@@ -1,4 +1,4 @@
-## WeeklyPost_20131111
+## WeeklyReport_20131111
 
 ### Primary
 * AU 外部合作、資源整合
