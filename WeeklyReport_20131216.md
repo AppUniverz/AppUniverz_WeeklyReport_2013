@@ -1,6 +1,7 @@
 ## WeeklyReport_20131216
 
 每週彙報改版
+AppUniverz工作討論區：https://trello.com/appuniverzorg
 
 ----------------------------
 ### 會務
@@ -45,7 +46,7 @@
 #### 會務
 * 會議相關：與清大育成討論未來合作事項。
 * 會員管理：遊戲橘子正式成為協會之團體會員。
-* 財務管理：http://bit.ly/AU-Finance
+* 財務管理：[AppUniverz財務狀況](http://bit.ly/AU-Finance)
 * 其他事項：製作2013工作報告、訂定2014工作計劃，確認工作項目/職責/工作模式。
 
 #### 業務
