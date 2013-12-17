@@ -1,7 +1,7 @@
 ## WeeklyReport_20131216
 
 * 每週彙報改版
-* AppUniverz工作討論區：https://trello.com/appuniverzorg
+* AppUniverz工作管理區：https://trello.com/appuniverzorg
 
 ----------------------------
 ### 會務
