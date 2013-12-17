@@ -21,6 +21,8 @@
 ### Past 
 
 * 12/07 09:00-21:00 AppUniverz 愛的程式碼黑客松 The Love of Code @Taipei
+* [AppUniverz 黑客松活動紀實]
+(http://www.appuniverz.org/blog/activity/hackathon/)
 
 ----------------------------
 ### Upcoming 
